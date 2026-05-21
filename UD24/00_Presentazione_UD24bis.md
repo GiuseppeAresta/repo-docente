@@ -1,8 +1,8 @@
-# UD24bis - SQL per analisi dati aziendale
+# LAB24 - SQL per analisi dati aziendale
 
-## Finalità della UD
+## Finalità del LAB24
 
-La UD24bis serve a trasformare le conoscenze SQL introdotte nella UD24 in capacità operative di interrogazione e analisi.
+Il LAB24 serve a trasformare le conoscenze SQL introdotte nelle attività precedenti in capacità operative di interrogazione e analisi.
 
 Il partecipante non lavora su query isolate, ma su richieste realistiche di estrazione dati aziendali, come:
 
@@ -17,11 +17,11 @@ Il partecipante non lavora su query isolate, ma su richieste realistiche di estr
 
 ## Collocazione consigliata
 
-Questa UD può essere somministrata dopo la UD24, prima dell'avvio delle attività che richiedono interrogazioni più strutturate da applicazione Java o JDBC.
+Questo laboratorio può essere somministrato dopo l'introduzione a DDL, DML e DQL, prima dell'avvio delle attività che richiedono interrogazioni più strutturate da applicazione Java o JDBC.
 
 ## Obiettivi didattici
 
-Al termine della UD il partecipante deve saper:
+Al termine del LAB24 il partecipante deve saper:
 
 - individuare le tabelle necessarie per una richiesta di analisi;
 - costruire join corrette tra tabelle collegate;
@@ -32,14 +32,14 @@ Al termine della UD il partecipante deve saper:
 - usare funzioni finestra per classifiche e top N per gruppo;
 - interpretare il risultato della query in chiave aziendale.
 
-## Struttura della UD
+## Struttura del LAB24
 
 | Parte | Durata indicativa | File |
 |---|---:|---|
-| Presentazione e schema | 30 min | `00_Presentazione_UD24bis.md`, `01_Schema_database_modelli_classici_it.md` |
-| Laboratorio guidato | 5 ore | `03_LAB24bis_guidato_query_analisi_aziendale.md` |
-| Laboratorio autonomo | 2 ore | `04_LAB24bis_autonomo_query_analisi_aziendale.md` |
-| Correzione e verifica | 30 min | `05_Soluzione_docente_LAB24bis_autonomo.md` |
+| Presentazione e schema | 30 min | `00_Presentazione_LAB24.md`, `01_Schema_database_modelli_classici_it.md` |
+| Laboratorio guidato | 5 ore | `03_LAB24_guidato_query_analisi_aziendale.md` |
+| Laboratorio autonomo | 2 ore | `04_LAB24_autonomo_query_analisi_aziendale.md` |
+| Correzione e verifica | 30 min | `05_Soluzione_docente_LAB24_autonomo.md` |
 
 ## Progressione tecnica
 
