@@ -452,7 +452,7 @@ public class CorsiHandler implements HttpHandler {
         if (!"GET".equals(exchange.getRequestMethod())) {
             // L'endpoint supporta solo GET.
             // Se arriva un metodo diverso, restituiamo 405 Method Not Allowed.
-            send(exchange, 405, "{"errore":"Metodo non supportato"}");
+            send(exchange, 405, "{\"errore\":\"Metodo non supportato\"}");
             return;
         }
 
